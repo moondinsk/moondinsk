@@ -46,7 +46,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/116px-Font_Awesome_5_brands_github.png" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/615px-Photoshop_CC_icon.png" style="padding-right:10px;" />
@@ -79,7 +78,7 @@
 
 
 #### - 서브 (Support)
-> [포스코청암재단](https://postf.org/) / [연세대학교 이과대학](http://scienceyonsei.kr/) / [연세대 화학과](https://chemyonsei.kr/) / [서울대학교 의료인공지능융합인재양성사업단](http://snuaimed.org/) / [한솔로지스틱스](https://www.hansollogistics.com/) / [ESR캔달스쿼츠](https://www.esrks-reit.com/) <br>
+> [포스코청암재단](https://postf.org/) / [연세대학교 이과대학](http://scienceyonsei.kr/) / [연세대 화학과](https://chemyonsei.kr/) / [서울대학교 의료인공지능융합인재양성사업단](http://snuaimed.org/) / [한솔로지스틱스](https://www.hansollogistics.com/) / [ESR캔달스쿼츠](https://www.esrks-reit.com/)
 > 서울대 BMRC, 이노큐브, 나우건축사무소, 서울시체육회, ktextile, 청담글로벌, apk, 가평화조원, MMT, 메를로랩, SY탱크터미널, BRC, 라이팩, 위더스애드, MBRC, 법무법인 제승, 대웅제약 IdsTrust, 팬스타 등
 
 <!-- 표 버전 
