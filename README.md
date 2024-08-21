@@ -58,7 +58,7 @@
 ## 🔥 최근 나의 개발 이슈 및 관심사
 - 1day 1commit 챌린지 진행중 (평일, 하루에 하나 이상씩은 올리기)
   
-- 2024 포트폴리오 [👉Repository](https://github.com/moondinsk/portfolio) [👉바로가기](http://www.moondinsk1.dothome.co.kr)
+- 2024 포트폴리오 [👉Repository](https://github.com/moondinsk/portfolio) [👉바로가기](http://moondinsk1.dothome.co.kr)
 
 - Javascript playground (gsap/threejs..) [👉Repository](https://github.com/moondinsk/playground)
 <hr>  
