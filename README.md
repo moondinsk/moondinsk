@@ -87,19 +87,7 @@
 | 메인 + 서브 100% (Main) | - 한국섬유수출입협회 http://textra.or.kr/ <br>- 코드비전 https://codevision.kr/ <br>- 노틀담수녀회 http://www.notredame.or.kr/ <br>- 제때물류 https://jette.co.kr/ <br>- 서울대학교 의료인공지능융합인재양성사업단 http://snuaimed.org/ <br>- 귀뚜라미환경테크 https://kituramiet.com/ <br>- 코스모비,  캡스톤파트너스, ktextra, 나우CM, 에너지컨설팅, 케이디엔지니어링, SMI, 호현FnC, BS정보기술, 법무법인 시공 등 | 
 | 서브 100% <br>(Support) | <br>- 포스코청암재단 https://postf.org/ <br>- 연세대학교 이과대학 http://scienceyonsei.kr/ <br>- 한솔로지스틱스 https://www.hansollogistics.com/ <br>- ESR캔달스쿼츠 https://www.esrks-reit.com/  <br>- 서울시체육회, ktextile, 청담글로벌, apk, 가평화조원, MMT, SY탱크터미널, BRC, 라이팩, 위더스애드, MBRC 등 | --> 
 
-### 2. 프론트만 개발하여 고객사에 전달
-백엔드 없이 오로지 html파일을 통해 페이지별로 프론트쪽만 개발하여 업체에 전달
-
-#### - 서브 100% (Support)
-> [위세아이텍](http://www.wise.co.kr/) / [심플랫폼](https://www.simplatform.com/ko/index.html) / [코베네프](https://www.gobiztown.com/)
-<!-- 표버전 
-| 💪 **Role** | 🚀 **Projects** |
-| - | - | 
-| 서브 100% <br>(Support) | - 위세아이텍 http://www.wise.co.kr/ <br>- 코베네프 https://www.gobiztown.com/ | 
--->
-
-
- ### 3. E-commerce 플랫폼 구축/리뉴얼 및 수정
+ ### 2. E-commerce 플랫폼 구축/리뉴얼 및 수정
 고도몰, Cafe24 툴을 사용하여 퍼블리싱 작업
 
 #### - 전체 중 20% (비오비타 메인+서브) 
@@ -111,6 +99,17 @@
 -->
 #### - 레이아웃 수정 및 모달팝업 등 추가 기능 
 > [바움129](https://www.baum129.com)
+
+### 3. 하드코딩
+백엔드 없이 오로지 html파일을 통해 페이지별로 프론트쪽만 개발하여 업체에 전달
+
+#### - 서브 100% (Support)
+> [위세아이텍](http://www.wise.co.kr/) / [심플랫폼](https://www.simplatform.com/ko/index.html) / [코베네프](https://www.gobiztown.com/)
+<!-- 표버전 
+| 💪 **Role** | 🚀 **Projects** |
+| - | - | 
+| 서브 100% <br>(Support) | - 위세아이텍 http://www.wise.co.kr/ <br>- 코베네프 https://www.gobiztown.com/ | 
+-->
 
 ### 4. 통합사이트 제작 - 환경이 다른 홈페이지들을 통합, 리뉴얼
 각자 다른 업체에서 만들어 형식이 각자 다른 홈페이지(적응형/반응형 섞여있는 사이트)들을 하나의 사이트로 통합시키고 반응형으로 만드는 작업을 진행
