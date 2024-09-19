@@ -1,7 +1,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 # 안녕하세요. 만나서 반갑습니다. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-대한민국 서울시에서 일하고 있는 웹퍼블리셔 이문영 입니다. 저는 웹에이전시에서 3년 3개월의 경력을 가지고 있으며, 반응형 웹사이트를 구축 또는 리뉴얼, 유지보수 하는 일을 주로 진행해왔습니다. 웹 표준 준수, 크로스 브라우징 대응, 웹 접근성, 웹 최적화 등을 고려하여 사용자에게 최적의 웹 환경을 제공하기 위해 노력합니다. 최근 회사 내부문제로 쉬게 되면서 현재는 새로운 일자리를 찾고 있습니다. 좋은 인연을 또 만나길 기다리고 있습니다. 잘 부탁드립니다 :) 🌸🍀
+대한민국 서울시에서 일하고 있는 웹퍼블리셔 moondinsk 입니다. 저는 웹에이전시에서 3년 3개월의 경력을 가지고 있으며, 반응형 웹사이트를 구축 또는 리뉴얼, 유지보수 하는 일을 주로 진행해왔습니다. 웹 표준 준수, 크로스 브라우징 대응, 웹 접근성, 웹 최적화 등을 고려하여 사용자에게 최적의 웹 환경을 제공하기 위해 노력합니다. 잘 부탁드립니다 :) 🌸🍀
 
 <!--
   <a href="https://moondinsk.tistory.com/"><img src="https://img.shields.io/badge/@moondinsk-ff5500?style=flat-square&amp;labelColor=ff5500&amp;logo=Tistory&amp;link=https://moondinsk.tistory.com/" alt="Tistory Badge"></a>
@@ -55,8 +55,6 @@
 <br><hr>
 
 ## 🔥 최근 나의 개발 이슈 및 관심사
-- 1day 1commit 챌린지 진행중 (평일, 하루에 하나 이상씩은 올리기)
-  
 - 2024 포트폴리오 [👉Repository](https://github.com/moondinsk/portfolio) [👉바로가기](http://moondinsk1.dothome.co.kr)
 
 - Javascript playground (gsap/threejs..) [👉Repository](https://github.com/moondinsk/playground)
